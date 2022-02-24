@@ -42,6 +42,7 @@ const personalMovieDB = {
     actor: {},
     genres: [],
     privat: false,
+    
 };
 
 console.log(personalMovieDB);
